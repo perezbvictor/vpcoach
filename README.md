@@ -1,2 +1,2 @@
-# vpcoach
-Coaching website
+# v.perezcoach
+Holistic Coaching website
